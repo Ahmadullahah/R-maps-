@@ -57,3 +57,19 @@ The raw CBNA datasets required **extensive cleaning**. Key steps included:
 
 ```r
 install.packages(c("tidyverse", "dplyr", "ggplot2", "tidyr", "readr", "janitor"))
+
+
+## 👤 Author & Contact
+**Ahmadullah Ahmadzai**
+**Email: Ahmadullah.ahmadyai6@gmail.com**
+**LinkedIn:https://www.linkedin.com/in/aahmadzai/**
+
+
+📚 Acknowledgements
+
+Data provided by the International Organization for Migration via the Displacement Tracking Matrix program.
+
+⚠️ Disclaimer
+
+The original CBNA data is produced by IOM.
+All cleaning, analysis, and visualizations were performed by the author for portfolio purposes.
