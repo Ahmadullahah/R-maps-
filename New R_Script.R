@@ -47,7 +47,7 @@ theme_set(theme_bw())
 
 
 
-final_data <- read_dta("C:/Users/ahmad/Downloads/final_data.dta")
+final_data <- read_dta("C:/Users/name/Downloads/final_data.dta")
 
 
 final_data$Round <- as.numeric(as.character(final_data$Round))
@@ -213,11 +213,11 @@ ggplot(final_data, aes(x=Round, y=Change_ArrivalIDPs, col=EduSchoolExist)) +
 #Maping
 ################################
 
-shp0 <-  read_sf("C:/Users/ahmad/Downloads/AFG_adm/AFG_adm0.shp")
+shp0 <-  read_sf("C:/Users/name/Downloads/AFG_adm/AFG_adm0.shp")
 
-shp1 <-  read_sf("C:/Users/ahmad/Downloads/AFG_adm/AFG_adm1.shp")
+shp1 <-  read_sf("C:/Users/name/Downloads/AFG_adm/AFG_adm1.shp")
 
-shp2 <-  read_sf("C:/Users/ahmad/Downloads/AFG_adm/AFG_adm2.shp")
+shp2 <-  read_sf("C:/Users/name/Downloads/AFG_adm/AFG_adm2.shp")
 
 
 shp1 <- shp1 %>%
@@ -361,8 +361,8 @@ print(pl_sec)
 
 # Convert the dataframe to an sf object
 
-District_Map <- read_sf("C:/Users/ahmad/Downloads/GIS/Afghanistan_Districts.shp")
-shp_D <-  read_sf("C:/Users/ahmad/Downloads/Final_Shp/Final-point.shp")
+District_Map <- read_sf("C:/Users/name/Downloads/GIS/Afghanistan_Districts.shp")
+shp_D <-  read_sf("C:/Users/name/Downloads/Final_Shp/Final-point.shp")
 
 
 # Assuming DIST_34_NA is the column you want to merge on
@@ -694,7 +694,7 @@ ggplot(data = world) +
   geom_sf()
 
 
-Internal_Displacement <- read_excel("C:/Users/ahmad/Downloads/Internal_Displacement.xlsx")
+Internal_Displacement <- read_excel("C:/Users/name/Downloads/Internal_Displacement.xlsx")
 
 
 colnames(Internal_Displacement)[colnames(Internal_Displacement) == "ISO3"] <- "iso_a3"
