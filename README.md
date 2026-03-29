@@ -1,6 +1,10 @@
 # ⭐ Community-Based Needs Assessment (CBNA) Data Analysis
 
-![R](https://img.shields.io/badge/language-R-blue) ![Data Analysis](https://img.shields.io/badge/type-data%20analysis-green) 
+![R](https://img.shields.io/badge/language-R-blue?style=flat-square) 
+![Data Analysis](https://img.shields.io/badge/type-data%20analysis-green?style=flat-square) 
+![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
+
+---
 
 ## 📌 Project Overview
 
@@ -20,7 +24,7 @@ This repository demonstrates a **complete data visualization workflow in R**, fo
 ## 📊 Data Source
 
 The analysis uses publicly available CBNA data provided by the  
-[International Organization for Migration (IOM)](https://www.iom.int/) through the [Displacement Tracking Matrix (DTM)](https://dtm.iom.int/).  
+[International Organization for Migration (IOM)](https://www.iom.int/) via the [Displacement Tracking Matrix (DTM)](https://dtm.iom.int/).  
 
 **CBNA Dataset Features:**
 
@@ -45,16 +49,31 @@ The raw CBNA datasets required **extensive cleaning**. Key steps included:
 
 ---
 
+## 📈 Data Visualization
+
+Examples of visualizations generated from the CBNA data:
+
+- Heatmaps of community vulnerabilities  
+- Bar charts of service access by region  
+- Trend analysis over multiple rounds  
+- Interactive dashboards with `ggplot2` and `plotly`  
+
+*Visualizations highlight patterns, disparities, and priority areas for intervention.*
+
+---
 
 ## 👤 Author & Contact
 
-**Ahmadullah Ahmadzai**
+**Ahmadullah Ahmadzai**  
 
-*LinkedIn:[Ahmadullah Ahmadzai](https://www.linkedin.com/in/aahmadzai/)*
+[LinkedIn](https://www.linkedin.com/in/aahmadzai/) | [Email me](mailto:Ahmadullah.ahmadzai6@gmail.com)
 
-*Email: Ahmadullah.ahmadzai6@gmail.com*
+---
 
 ## ⚠️ Disclaimer
 
-The original CBNA data is produced by IOM.
+The original CBNA data is produced by **IOM**.  
 All cleaning, analysis, and visualizations were performed by the author for research purposes.
+
+---
+
