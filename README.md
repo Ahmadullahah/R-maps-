@@ -52,9 +52,9 @@ The raw CBNA datasets required **extensive cleaning**. Key steps included:
 
 ## 👤 Author & Contact
 
--**Ahmadullah Ahmadzai**
--**LinkedIn:[Ahmadullah Ahmadzai](https://www.linkedin.com/in/aahmadzai/)**
--**Email: [Email me](mailto:Ahmadullah.ahmadzai6@gmail.com)**
+**Ahmadullah Ahmadzai**
+*LinkedIn:[Ahmadullah Ahmadzai](https://www.linkedin.com/in/aahmadzai/)**
+*Email: (mailto:Ahmadullah.ahmadzai6@gmail.com)**
 
 ## ⚠️ Disclaimer
 
