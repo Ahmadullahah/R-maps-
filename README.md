@@ -1,4 +1,4 @@
-# ⭐ Community-Based Needs Assessment (CBNA) Data Analysis
+# Community-Based Needs Assessment (CBNA) Data Analysis
 
 ![R](https://img.shields.io/badge/language-R-blue?style=flat-square) 
 ![Data Analysis](https://img.shields.io/badge/type-data%20analysis-green?style=flat-square) 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This repository demonstrates a **complete data visualization workflow in R**, focusing on **cleaning, harmonizing, and analyzing large multi-round survey datasets** from the **Community-Based Needs Assessment (CBNA)** program.
 
@@ -21,7 +21,7 @@ This repository demonstrates a **complete data visualization workflow in R**, fo
 
 ---
 
-## 📊 Data Source
+## Data Source
 
 The analysis uses publicly available CBNA data provided by the  
 [International Organization for Migration (IOM)](https://www.iom.int/) via the [Displacement Tracking Matrix (DTM)](https://dtm.iom.int/).  
@@ -36,7 +36,7 @@ The analysis uses publicly available CBNA data provided by the
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 The raw CBNA datasets required **extensive cleaning**. Key steps included:
 
@@ -49,7 +49,7 @@ The raw CBNA datasets required **extensive cleaning**. Key steps included:
 
 ---
 
-## 📈 Data Visualization
+## Data Visualization
 
 Examples of visualizations generated from the CBNA data:
 
