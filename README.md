@@ -62,7 +62,7 @@ Examples of visualizations generated from the CBNA data:
 
 ---
 
-## 👤 Author & Contact
+## Author & Contact
 
 **Ahmadullah Ahmadzai**  
 
@@ -70,7 +70,7 @@ Examples of visualizations generated from the CBNA data:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 The original CBNA data is produced by **IOM**.  
 All cleaning, analysis, and visualizations were performed by the author for research purposes.
