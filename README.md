@@ -53,17 +53,10 @@ The raw CBNA datasets required **extensive cleaning**. Key steps included:
 ## 👤 Author & Contact
 
 **Ahmadullah Ahmadzai**
-
-**Email: Ahmadullah.ahmadyai6@gmail.com**
-
 **LinkedIn:[Ahmadullah Ahmadzai](https://www.linkedin.com/in/aahmadzai/)**
+**Email: [Email me](mailto:Ahmadullah.ahmadzai6@gmail.com)**
 
-
-📚 Acknowledgements
-
-Data provided by the International Organization for Migration via the Displacement Tracking Matrix program.
-
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 The original CBNA data is produced by IOM.
-All cleaning, analysis, and visualizations were performed by the author for portfolio purposes.
+All cleaning, analysis, and visualizations were performed by the author for research purposes.
