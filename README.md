@@ -1,8 +1,6 @@
 # ⭐ Community-Based Needs Assessment (CBNA) Data Analysis
 
-![R](https://img.shields.io/badge/language-R-blue) ![Data Analysis](https://img.shields.io/badge/type-data%20analysis-green) ![Completed](https://img.shields.io/badge/status-completed-lightgrey)
-
----
+![R](https://img.shields.io/badge/language-R-blue) ![Data Analysis](https://img.shields.io/badge/type-data%20analysis-green) 
 
 ## 📌 Project Overview
 
