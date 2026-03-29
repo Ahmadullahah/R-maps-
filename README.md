@@ -49,18 +49,6 @@ The raw CBNA datasets required **extensive cleaning**. Key steps included:
 
 ---
 
-## ⚙️ Tools & Technologies
-
-**Programming Language:** `R`  
-
-**Packages Used:**
-
-```r
-install.packages(c("tidyverse", "dplyr", "ggplot2", "tidyr", "readr", "janitor"))
-
-
----
-
 
 ## 👤 Author & Contact
 **Ahmadullah Ahmadzai**
