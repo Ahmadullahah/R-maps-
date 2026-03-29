@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-This repository demonstrates a **complete data analysis workflow in R**, focusing on **cleaning, harmonizing, and analyzing large multi-round survey datasets** from the **Community-Based Needs Assessment (CBNA)** program.
+This repository demonstrates a **complete data visualization workflow in R**, focusing on **cleaning, harmonizing, and analyzing large multi-round survey datasets** from the **Community-Based Needs Assessment (CBNA)** program.
 
 **Skills demonstrated:**
 
@@ -43,9 +43,7 @@ The raw CBNA datasets required **extensive cleaning**. Key steps included:
 3. Removing duplicates and incomplete records  
 4. Handling missing values  
 5. Restructuring data for analysis  
-6. Producing a **clean, harmonized dataset** ready for visualization and modeling  
-
-> All steps are implemented in **R scripts**, ensuring **reproducibility**.
+6. Producing a **clean, panel dataset** ready for visualization and modeling  
 
 ---
 
@@ -54,7 +52,7 @@ The raw CBNA datasets required **extensive cleaning**. Key steps included:
 
 **Ahmadullah Ahmadzai**
 
-*LinkedIn:[Ahmadullah Ahmadzai](https://www.linkedin.com/in/aahmadzai/)**
+*LinkedIn:[Ahmadullah Ahmadzai](https://www.linkedin.com/in/aahmadzai/)*
 
 *Email: Ahmadullah.ahmadzai6@gmail.com*
 
